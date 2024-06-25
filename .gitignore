@@ -1,0 +1,11 @@
+
+*.iml
+
+Main.java
+
+##폴더 무시
+out/
+python/
+ext/
+.idea/
+ignore/
